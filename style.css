@@ -1,0 +1,27 @@
+html,body{
+    background-color: #c8b6ff;
+}
+#mealContainer {
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    
+  }
+  
+  #mealInfo {
+    margin-bottom: 20px;
+  }
+  #mealInfo.p {
+ text-overflow: ellipsis;
+    overflow: hidden;
+    width: 80%;
+    height: 1.2em;
+    white-space: nowrap;
+}
+  
+  
+  #mealImage img {
+    max-width: 100%;
+    height: auto;
+  }
+  
